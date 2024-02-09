@@ -3,7 +3,9 @@
 I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms.
 
 I’m currently working on BjornDB
+</br>
 I’m currently learning Locust, Terraform
+</br>
 How to reach me: sriramvemparala27@gmail.com
 
 <!--
