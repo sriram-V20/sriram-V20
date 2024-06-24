@@ -2,11 +2,7 @@
 
 I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms.
 
-I’m currently working on BjornDB
-</br>
-I’m currently learning Locust, Terraform
-</br>
-How to reach me: vemparalasriram999.com
+How to reach me: sriram.vemp20@gmail.com
 
 <!--
 **sriram-V20/sriram-V20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
