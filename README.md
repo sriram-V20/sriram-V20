@@ -2,7 +2,6 @@
 
 I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms.
 
-How to reach me: sriram.vemp20@gmail.com
 
 <!--
 **sriram-V20/sriram-V20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
